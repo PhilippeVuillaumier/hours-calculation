@@ -34,7 +34,7 @@ $$
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
 
-[![N|Solid](C:\Users\dell-optilex-3010\Videos\heures.gif)]
+[(C:\Users\dell-optilex-3010\Videos\heures.gif)]
 
 
 
